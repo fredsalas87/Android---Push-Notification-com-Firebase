@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399914794899",
+    "project_id": "push2fire-68f26",
+    "storage_bucket": "push2fire-68f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399914794899:android:f58915572af2b3c43ab266",
+        "android_client_info": {
+          "package_name": "com.example.push2fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399914794899-d94reqr09v1imt0peneigpeanteu40lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtYMFC1-QV6IJ7nGlm6RL5ybie7C2pR9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399914794899-d94reqr09v1imt0peneigpeanteu40lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

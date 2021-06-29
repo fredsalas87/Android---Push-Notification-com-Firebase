@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push2Fire</string>
+    <string name="msg_subscribed">Se inscreveu</string>
+    <string name="msg_subscribe_failed">Erro na inscrição</string>
+</resources>
