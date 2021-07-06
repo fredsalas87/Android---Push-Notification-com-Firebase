@@ -17,5 +17,3 @@
 - Testando a exibição de push notifications local
 
 - Conectando o serviço de mensageria com a exibição das notificações
-
-- Dicas e próximos passos
